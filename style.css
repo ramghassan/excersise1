@@ -1,0 +1,23 @@
+div{
+
+  width: 500px;
+  height: 500px;
+  margin:auto;
+}
+p
+{
+  font-size: 17px;
+}
+ul{
+  align-items: left;
+    font-size: 17px;
+}
+.emp
+{
+
+  font-size: 17px;
+border: 1px solid white;
+text-align: center;
+padding-top: 15px;
+padding-bottom:15px;
+}
